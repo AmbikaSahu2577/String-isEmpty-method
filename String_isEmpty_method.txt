@@ -1,0 +1,9 @@
+
+class String_isEmpty_method
+{
+   public static void main(String[] args) 
+   {
+   	   String name = "java";
+   	   System.out.println(name.isEmpty());	
+   }	
+}
